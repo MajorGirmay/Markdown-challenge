@@ -2,7 +2,7 @@
 
 "Every thing is hard before it become easy"
 
-![screenshot](image/55604926_1862118950558850_2067089045699166208_n.jpg)
+![jpg](image/55604926_1862118950558850_2067089045699166208_n.jpg)
  
 "_Me ,i am perserverant_ "
 
