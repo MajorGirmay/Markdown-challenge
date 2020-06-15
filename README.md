@@ -17,14 +17,14 @@ Pinneapple on pizza | <ul><li>[ ] Yes</li><li>[x] No</li></ul>
 
 * Reading
 	
-	-Siddharta
+	*Siddharta
 	
-	-The power of now 
+	* The power of now 
 	
-	-Man searching of meaning 
-*writting 
+	* Man searching of meaning 
+* Writting 
 
-*traveling
+* Traveling
 	
 	
 	*Tanzania
