@@ -2,7 +2,7 @@
 
 "Every thing is hard before it become easy"
 
-![](image/https://github.com/MajorGirmay/Markdown-challenge/blob/master/maji.html)
+![img](image/https://github.com/MajorGirmay/Markdown-challenge/blob/master/maji.html)
  
 "_Me ,i am perserverant_ "
 
