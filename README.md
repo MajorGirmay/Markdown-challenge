@@ -17,7 +17,7 @@ Pinneapple on pizza | <ul><li>[ ] Yes</li><li>[x] No</li></ul>
 
 * Reading
 	
-	*Siddharta
+	* Siddharta
 	
 	* The power of now 
 	
@@ -26,14 +26,13 @@ Pinneapple on pizza | <ul><li>[ ] Yes</li><li>[x] No</li></ul>
 
 * Traveling
 	
+	* Tanzania
 	
-	*Tanzania
+	* Sudan
 	
-	*Sudan
+	* Italy
 	
-	*Italy
-	
-	*Porugal
+	* Porugal
 
 ### You can always count on me when ..
   
