@@ -3,8 +3,8 @@
 "Every thing is hard before it become easy"
 
 /home/becode/Desktop/55604926_1862118950558850_2067089045699166208_n.jpg
-
-"Me ,i am perserverant 
+ 
+"_Me ,i am perserverant_ "
 
 Questoin | Answer
 ------------ | -------------
