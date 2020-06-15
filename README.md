@@ -1,8 +1,7 @@
 # Major Girmay
 
 "Every thing is hard before it become easy"
-
-< img src = " images/14331631_913098905460864_2034356879_n.jpg">
+ ! [facebook images] (https://www.facebook.com/rojam.girmay)
  
 "_Me ,i am perserverant_ "
 
