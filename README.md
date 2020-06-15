@@ -2,7 +2,7 @@
 
 "Every thing is hard before it become easy"
 
-< img src = "55604926_1862118950558850_2067089045699166208_n.jpg" >
+< img src = " image/55604926_1862118950558850_2067089045699166208_n.jpg" >
  
 "_Me ,i am perserverant_ "
 
