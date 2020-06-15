@@ -2,7 +2,7 @@
 
 "Every thing is hard before it become easy"
 
-< img src = " images/https://github.com/MajorGirmay/Markdown-challenge/blob/master/14331631_913098905460864_2034356879_n.jpg">
+< img src = " images/14331631_913098905460864_2034356879_n.jpg">
  
 "_Me ,i am perserverant_ "
 
