@@ -2,6 +2,8 @@
 
 "Every thing is hard before it become easy"
 
+/home/becode/Desktop/55604926_1862118950558850_2067089045699166208_n.jpg
+
 "Me ,i am perserverant 
 
 Questoin | Answer
@@ -14,14 +16,23 @@ Pinneapple on pizza | <ul><li>[ ] Yes</li><li>[x] No</li></ul>
 ## Hobbies 
 
 * Reading
+	
 	*Siddharta
+	
 	*The power of now 
+	
 	*Man searching of meaning 
 *writting 
+
 *traveling
+	
+	
 	*Tanzania
+	
 	*Sudan
+	
 	*Italy
+	
 	*Porugal
 
 ### You can always count on me when ..
