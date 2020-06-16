@@ -2,6 +2,8 @@
 
 "Every thing is hard before it become easy"
 
+![14331631_913098905460864_2034356879_n](https://user-images.githubusercontent.com/66676609/84718308-8c1f0180-af78-11ea-9b88-c2806346a8f8.jpg)
+
  
 "_Me ,i am perserverant_ "
 
