@@ -48,5 +48,5 @@ When i Was in Italy , i went to city hall to processed some paper work ,when i g
 Language barrier.
 
 
-          [<< previous](https://github.com/LisaBaetsle/markdown-challenge/blob/master/README.md)  [Major Girmay]  [next >>](https://github.com/WiseCoding/BeCode/blob/master/markdown-challenge/README.md)
+          [<< previous](https://github.com/LisaBaetsle/markdown-challenge/blob/master/README.md) [Major Girmay]  [next >>](https://github.com/WiseCoding/BeCode/blob/master/markdown-challenge/README.md)
 
